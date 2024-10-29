@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7510505f-2534-4814-9625-c6de637860f1" name="Changes" comment="My first python class here were the results of the lesson">
       <changelist_data name="Martin Gachanja" email="" />
-      <change beforePath="$PROJECT_DIR$/lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +33,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2o3KPZVNCDTZLNypGyTbgVblL8Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,8 +50,13 @@
     "Python.lesson2.executor": "Run",
     "Python.lesson3.executor": "Run",
     "Python.lesson4.executor": "Run",
+    "Python.lesson5.executor": "Debug",
+    "Python.lesson7.executor": "Run",
+    "Python.lesson8.executor": "Run",
+    "Python.python6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/marto/Desktop/learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson2" />
         <item itemvalue="Python.lesson1" />
+        <item itemvalue="Python.lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730092796774</updated>
       <workItem from="1730092801508" duration="7194000" />
+      <workItem from="1730101225842" duration="1696000" />
+      <workItem from="1730178357741" duration="8289000" />
     </task>
     <task id="LOCAL-00001" summary="My first python class here were the results of the lesson">
       <option name="closed" value="true" />
@@ -146,9 +158,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="My first python class here were the results of the lesson" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_basics$lesson7.coverage" NAME="lesson7 Coverage Results" MODIFIED="1730183968412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_basics$python6.coverage" NAME="python6 Coverage Results" MODIFIED="1730183214006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_basics$lesson8.coverage" NAME="lesson8 Coverage Results" MODIFIED="1730184243195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_basics$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1730099952824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_basics$lesson2.coverage" NAME="lesson2 Coverage Results" MODIFIED="1730096075265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_basics$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1730096881723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_basics$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1730094966989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_basics$lesson5.coverage" NAME="lesson5 Coverage Results" MODIFIED="1730182074120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_basics$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1730179661655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
